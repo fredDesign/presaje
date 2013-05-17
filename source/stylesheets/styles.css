@@ -513,20 +513,21 @@
   text-indent: -119988px;
   overflow: hidden;
   text-align: left;
-  background-image: url('stylesheets/images/logo.png?1362389573');
+  background-image: url('stylesheets/images/logo.png?1368802200');
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  width: 100px;
-  height: 192px;
+  width: 280px;
+  height: 100px;
   display: inline-block;
+  background-image: url("images/logo.png");
 }
 
-/* line 75, ../sass/styles.scss */
+/* line 76, ../sass/styles.scss */
 .intro {
   text-align: center;
 }
-/* line 78, ../sass/styles.scss */
-.intro h1, .intro h2 {
+/* line 79, ../sass/styles.scss */
+.intro h1, .intro .publications .headersection h4, .publications .headersection .intro h4, .intro .actualites .headersection h4, .actualites .headersection .intro h4, .intro .associes .headersection h4, .associes .headersection .intro h4, .intro h2 {
   font-family: 'Old Standard TT', serif;
   font-weight: 200;
   font-size: 2em;
@@ -534,7 +535,7 @@
   font-style: italic;
   text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
 }
-/* line 84, ../sass/styles.scss */
+/* line 85, ../sass/styles.scss */
 .intro h3 {
   font-family: 'Old Standard TT', serif;
   font-weight: 200;
@@ -544,8 +545,37 @@
   text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
 }
 
-/* line 96, ../sass/styles.scss */
-.publications .headersection h1, .publications .headersection h2, .publications .headersection h3, .publications .headersection h4, .evenements .headersection h1, .evenements .headersection h2, .evenements .headersection h3, .evenements .headersection h4, .associes .headersection h1, .associes .headersection h2, .associes .headersection h3, .associes .headersection h4 {
+/* line 95, ../sass/styles.scss */
+.banniere_top {
+  background: url(images/banniere.jpg) repeat-x center center;
+  height: 88px;
+  -webkit-box-shadow: 0px 16px 16px #bbbbbb;
+  -moz-box-shadow: 0px 16px 16px #bbbbbb;
+  box-shadow: 0px 16px 16px #bbbbbb;
+}
+
+/* line 100, ../sass/styles.scss */
+.backico {
+  font-size: 14em;
+  top: -20px;
+  color: white;
+  position: absolute;
+  left: -10%;
+}
+
+/* line 108, ../sass/styles.scss */
+.publications, .actualites, .associes {
+  position: relative;
+}
+/* line 110, ../sass/styles.scss */
+.publications .headersection, .actualites .headersection, .associes .headersection {
+  -webkit-box-shadow: 0 0 80px #dfdfdf;
+  -moz-box-shadow: 0 0 80px #dfdfdf;
+  box-shadow: 0 0 80px #dfdfdf;
+  padding: 20px 0 40px;
+}
+/* line 113, ../sass/styles.scss */
+.publications .headersection h1, .publications .headersection h4, .actualites .headersection h1, .actualites .headersection h4, .associes .headersection h1, .associes .headersection h4 {
   text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
   color: white;
   text-align: center;
@@ -553,9 +583,10 @@
   font-size: 4em;
   font-weight: 400;
   text-transform: uppercase;
+  margin-bottom: 0px;
 }
-/* line 101, ../sass/styles.scss */
-.publications .headersection h1 span, .publications .headersection h2 span, .publications .headersection h3 span, .publications .headersection h4 span, .evenements .headersection h1 span, .evenements .headersection h2 span, .evenements .headersection h3 span, .evenements .headersection h4 span, .associes .headersection h1 span, .associes .headersection h2 span, .associes .headersection h3 span, .associes .headersection h4 span {
+/* line 118, ../sass/styles.scss */
+.publications .headersection h1 span, .publications .headersection h4 span, .actualites .headersection h1 span, .actualites .headersection h4 span, .associes .headersection h1 span, .associes .headersection h4 span {
   font-weight: 200;
   font-size: 0.8em;
   position: relative;
@@ -563,13 +594,27 @@
   line-height: 125%;
   display: inline-block;
 }
+/* line 125, ../sass/styles.scss */
+.publications .headersection h4, .actualites .headersection h4, .associes .headersection h4 {
+  font-size: 1em;
+}
 
-/* line 110, ../sass/styles.scss */
+/* line 138, ../sass/styles.scss */
 .publications .headersection {
   background-color: #ed8900;
 }
 
-/* line 114, ../sass/styles.scss */
+/* line 143, ../sass/styles.scss */
+.actualites .headersection {
+  background-color: #e3002e;
+}
+
+/* line 148, ../sass/styles.scss */
+.associes .headersection {
+  background-color: #bebec0;
+}
+
+/* line 152, ../sass/styles.scss */
 .button-circle {
   font-size: 2em;
   text-align: center;
@@ -587,7 +632,7 @@
   border-radius: 500px;
   line-height: 42px;
 }
-/* line 115, ../sass/styles.scss */
+/* line 153, ../sass/styles.scss */
 .button-circle:hover {
   -webkit-animation: my-animation 10s infinite;
   -moz-animation: my-animation 10s infinite;
@@ -595,7 +640,7 @@
   -o-animation: my-animation 10s infinite;
   animation: my-animation 10s infinite;
 }
-/* line 128, ../sass/styles.scss */
+/* line 166, ../sass/styles.scss */
 .button-circle:before, .button-circle:after {
   content: ' ';
   background-color: transparent;
@@ -612,7 +657,7 @@
   border-width: 18px 18px;
   border-color: white white transparent transparent;
 }
-/* line 146, ../sass/styles.scss */
+/* line 184, ../sass/styles.scss */
 .button-circle:after {
   content: ' ';
   top: -11px;
@@ -620,7 +665,7 @@
   border-style: solid;
   border-color: transparent transparent #fff #fff;
 }
-/* line 157, ../sass/styles.scss */
+/* line 195, ../sass/styles.scss */
 .button-circle:hover:after {
   -webkit-animation: move-circle 0.5s;
   -moz-animation: move-circle 0.5s;
@@ -628,7 +673,7 @@
   -o-animation: move-circle 0.5s;
   animation: move-circle 0.5s;
 }
-/* line 158, ../sass/styles.scss */
+/* line 196, ../sass/styles.scss */
 .button-circle:hover:before {
   -webkit-animation: move-circle-inverse 0.5s;
   -moz-animation: move-circle-inverse 0.5s;

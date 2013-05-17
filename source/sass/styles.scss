@@ -71,6 +71,7 @@
 .logo {
   @include replace-text-with-dimensions($logo);
   display:inline-block;
+  background-image:url("images/logo.png")
 }
 .intro {
   text-align:center;
@@ -91,9 +92,25 @@
 
 }
 
-.publications,.evenements,.associes{
+.banniere_top {
+  background:url(images/banniere.jpg) repeat-x center center;
+  height:88px;
+  @include box-shadow ( 0px 16px 16px  #bbb)
+}
+.backico {
+  font-size:14em;
+  top:-20px;
+  color:$white  ;
+  position:absolute;
+  left:-10%;
+}
+
+.publications,.actualites,.associes{
+  position:relative;
   .headersection {
-      h1,h2,h3,h4 {
+    @include box-shadow (0 0 80px #dFDFDF);
+    padding:20px 0 40px;
+      h1 {
         text-shadow: rgba(0, 0, 0, .01) 0 0 1px  ;
         color:$white;
         text-align: center;
@@ -103,12 +120,33 @@
         font-size: 4em;
         font-weight: 400;
         text-transform: uppercase;
+        margin-bottom:0px;
+      }
+    h4 {
+      @extend  h1 ;
+      font-size:1em;
+      &:before {
+
+      }
+      &:after {
+
+       }
       }
      }
   }
 .publications {
   .headersection {
     background-color: $ocr;
+  }
+}
+.actualites {
+  .headersection {
+    background-color: $magenta;
+  }
+}
+.associes {
+  .headersection {
+    background-color: $bgray;
   }
 }
 .button-circle {
