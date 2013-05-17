@@ -4,12 +4,11 @@
     <list default="true" id="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" name="Default" comment="" />
     <ignored path="source.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/stylesheets/app.css" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368785328047" ignored="false" />
     <file path="/app.scss" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368785319369" ignored="false" />
-    <file path="/index.html" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368786608649" ignored="false" />
+    <file path="/index.html" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368800762034" ignored="false" />
     <file path="/_var.scss" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368785299784" ignored="false" />
-    <file path="$PROJECT_DIR$/stylesheets/styles.css" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368787981108" ignored="false" />
-    <file path="/styles.scss" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368787981968" ignored="false" />
+    <file path="/styles.scss" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368800784293" ignored="false" />
+    <file path="/fonts.css" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368794339185" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,19 +55,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_nav-presaje.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/foundation/components/_nav-presaje.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="23" selection-start="1147" selection-end="1147" vertical-scroll-proportion="-8.48">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="styles.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="47" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.8360882">
+            <state line="75" column="20" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.40392706">
               <folding />
             </state>
           </provider>
@@ -77,10 +67,19 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="41" selection-start="1148" selection-end="1161" vertical-scroll-proportion="-3.7894738">
+            <state line="38" column="55" selection-start="1191" selection-end="1191" vertical-scroll-proportion="-4.4736843">
               <folding>
                 <element signature="tag#div#1;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fonts.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheets/fonts.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="0" selection-start="822" selection-end="832" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,15 +102,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/foundation/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1197" column="0" selection-start="29796" selection-end="29796" vertical-scroll-proportion="-33.12">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -126,15 +116,16 @@
         <option value="$PROJECT_DIR$/../../../compass_sass_bloxboy/static/sass/_var.scss" />
         <option value="$PROJECT_DIR$/sass/app.scss" />
         <option value="$PROJECT_DIR$/sass/var.scss" />
+        <option value="$PROJECT_DIR$/stylesheets/fonts.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sass/styles.scss" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="89" />
+    <option name="x" value="743" />
     <option name="y" value="126" />
-    <option name="width" value="1530" />
+    <option name="width" value="1183" />
     <option name="height" value="934" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -179,6 +170,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,13 +287,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="126" width="1530" height="934" extended-state="0" />
+    <frame x="743" y="126" width="1183" height="934" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24949698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21940559" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -413,9 +418,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="822" selection-end="832" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="20" selection-start="898" selection-end="900" vertical-scroll-proportion="-1.3590786">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/Projets/presaje/icoFont/syntec81006/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="25" selection-start="2001" selection-end="2130" vertical-scroll-proportion="0.7268965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="41" selection-start="1148" selection-end="1161" vertical-scroll-proportion="-3.7894738">
+        <state line="38" column="55" selection-start="1191" selection-end="1191" vertical-scroll-proportion="-4.4736843">
           <folding>
             <element signature="tag#div#1;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
@@ -424,7 +450,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="47" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.8360882">
+        <state line="75" column="20" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.40392706">
           <folding />
         </state>
       </provider>

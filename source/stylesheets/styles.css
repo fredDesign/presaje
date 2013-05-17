@@ -116,7 +116,399 @@
   background-position: 0 -533px;
 }
 
-/* line 15, ../sass/styles.scss */
+@-moz-keyframes my-animation {
+  /* line 15, ../sass/styles.scss */
+  0%, 100% {
+    background-color: blue;
+  }
+
+  /* line 18, ../sass/styles.scss */
+  50% {
+    background-color: red;
+  }
+}
+
+@-webkit-keyframes my-animation {
+  /* line 15, ../sass/styles.scss */
+  0%, 100% {
+    background-color: blue;
+  }
+
+  /* line 18, ../sass/styles.scss */
+  50% {
+    background-color: red;
+  }
+}
+
+@-o-keyframes my-animation {
+  /* line 15, ../sass/styles.scss */
+  0%, 100% {
+    background-color: blue;
+  }
+
+  /* line 18, ../sass/styles.scss */
+  50% {
+    background-color: red;
+  }
+}
+
+@-ms-keyframes my-animation {
+  /* line 15, ../sass/styles.scss */
+  0%, 100% {
+    background-color: blue;
+  }
+
+  /* line 18, ../sass/styles.scss */
+  50% {
+    background-color: red;
+  }
+}
+
+@keyframes my-animation {
+  /* line 15, ../sass/styles.scss */
+  0%, 100% {
+    background-color: blue;
+  }
+
+  /* line 18, ../sass/styles.scss */
+  50% {
+    background-color: red;
+  }
+}
+
+@-moz-keyframes move-circle {
+  /* line 24, ../sass/styles.scss */
+  0% {
+    left: -11px;
+    top: -13px;
+    -moz-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  /* line 28, ../sass/styles.scss */
+  50% {
+    -moz-transform: rotate(120deg);
+    transform: rotate(120deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 32, ../sass/styles.scss */
+  75% {
+    -moz-transform: rotate(240deg);
+    transform: rotate(240deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 36, ../sass/styles.scss */
+  100% {
+    -moz-transform: rotate(360deg);
+    transform: rotate(360deg);
+    left: -13px;
+    top: -13px;
+  }
+}
+
+@-webkit-keyframes move-circle {
+  /* line 24, ../sass/styles.scss */
+  0% {
+    left: -11px;
+    top: -13px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  /* line 28, ../sass/styles.scss */
+  50% {
+    -webkit-transform: rotate(120deg);
+    transform: rotate(120deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 32, ../sass/styles.scss */
+  75% {
+    -webkit-transform: rotate(240deg);
+    transform: rotate(240deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 36, ../sass/styles.scss */
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+    left: -13px;
+    top: -13px;
+  }
+}
+
+@-o-keyframes move-circle {
+  /* line 24, ../sass/styles.scss */
+  0% {
+    left: -11px;
+    top: -13px;
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  /* line 28, ../sass/styles.scss */
+  50% {
+    -o-transform: rotate(120deg);
+    transform: rotate(120deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 32, ../sass/styles.scss */
+  75% {
+    -o-transform: rotate(240deg);
+    transform: rotate(240deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 36, ../sass/styles.scss */
+  100% {
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+    left: -13px;
+    top: -13px;
+  }
+}
+
+@-ms-keyframes move-circle {
+  /* line 24, ../sass/styles.scss */
+  0% {
+    left: -11px;
+    top: -13px;
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  /* line 28, ../sass/styles.scss */
+  50% {
+    -ms-transform: rotate(120deg);
+    transform: rotate(120deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 32, ../sass/styles.scss */
+  75% {
+    -ms-transform: rotate(240deg);
+    transform: rotate(240deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 36, ../sass/styles.scss */
+  100% {
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+    left: -13px;
+    top: -13px;
+  }
+}
+
+@keyframes move-circle {
+  /* line 24, ../sass/styles.scss */
+  0% {
+    left: -11px;
+    top: -13px;
+    transform: rotate(0deg);
+  }
+
+  /* line 28, ../sass/styles.scss */
+  50% {
+    transform: rotate(120deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 32, ../sass/styles.scss */
+  75% {
+    transform: rotate(240deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 36, ../sass/styles.scss */
+  100% {
+    transform: rotate(360deg);
+    left: -13px;
+    top: -13px;
+  }
+}
+
+@-moz-keyframes move-circle-inverse {
+  /* line 44, ../sass/styles.scss */
+  0% {
+    -moz-transform: rotate(0deg);
+    transform: rotate(0deg);
+    left: -12px;
+    top: -12px;
+  }
+
+  /* line 48, ../sass/styles.scss */
+  50% {
+    -moz-transform: rotate(120deg);
+    transform: rotate(120deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 52, ../sass/styles.scss */
+  75% {
+    -moz-transform: rotate(240deg);
+    transform: rotate(240deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 56, ../sass/styles.scss */
+  100% {
+    -moz-transform: rotate(360deg);
+    transform: rotate(360deg);
+    left: -11px;
+    top: -11px;
+  }
+}
+
+@-webkit-keyframes move-circle-inverse {
+  /* line 44, ../sass/styles.scss */
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    left: -12px;
+    top: -12px;
+  }
+
+  /* line 48, ../sass/styles.scss */
+  50% {
+    -webkit-transform: rotate(120deg);
+    transform: rotate(120deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 52, ../sass/styles.scss */
+  75% {
+    -webkit-transform: rotate(240deg);
+    transform: rotate(240deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 56, ../sass/styles.scss */
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+    left: -11px;
+    top: -11px;
+  }
+}
+
+@-o-keyframes move-circle-inverse {
+  /* line 44, ../sass/styles.scss */
+  0% {
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    left: -12px;
+    top: -12px;
+  }
+
+  /* line 48, ../sass/styles.scss */
+  50% {
+    -o-transform: rotate(120deg);
+    transform: rotate(120deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 52, ../sass/styles.scss */
+  75% {
+    -o-transform: rotate(240deg);
+    transform: rotate(240deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 56, ../sass/styles.scss */
+  100% {
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+    left: -11px;
+    top: -11px;
+  }
+}
+
+@-ms-keyframes move-circle-inverse {
+  /* line 44, ../sass/styles.scss */
+  0% {
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    left: -12px;
+    top: -12px;
+  }
+
+  /* line 48, ../sass/styles.scss */
+  50% {
+    -ms-transform: rotate(120deg);
+    transform: rotate(120deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 52, ../sass/styles.scss */
+  75% {
+    -ms-transform: rotate(240deg);
+    transform: rotate(240deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 56, ../sass/styles.scss */
+  100% {
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+    left: -11px;
+    top: -11px;
+  }
+}
+
+@keyframes move-circle-inverse {
+  /* line 44, ../sass/styles.scss */
+  0% {
+    transform: rotate(0deg);
+    left: -12px;
+    top: -12px;
+  }
+
+  /* line 48, ../sass/styles.scss */
+  50% {
+    transform: rotate(120deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 52, ../sass/styles.scss */
+  75% {
+    transform: rotate(240deg);
+    left: -11px;
+    top: -13px;
+  }
+
+  /* line 56, ../sass/styles.scss */
+  100% {
+    transform: rotate(360deg);
+    left: -11px;
+    top: -11px;
+  }
+}
+
+/* line 71, ../sass/styles.scss */
 .logo {
   text-indent: -119988px;
   overflow: hidden;
@@ -129,24 +521,61 @@
   display: inline-block;
 }
 
-/* line 21, ../sass/styles.scss */
-.publications .headersection h1, .publications .headersection h2, .publications .headersection h3, .publications .headersection h4, .evenements .headersection h1, .evenements .headersection h2, .evenements .headersection h3, .evenements .headersection h4, .associes .headersection h1, .associes .headersection h2, .associes .headersection h3, .associes .headersection h4 {
-  color: white;
+/* line 75, ../sass/styles.scss */
+.intro {
   text-align: center;
 }
-/* line 23, ../sass/styles.scss */
-.publications .headersection h1 span, .publications .headersection h2 span, .publications .headersection h3 span, .publications .headersection h4 span, .evenements .headersection h1 span, .evenements .headersection h2 span, .evenements .headersection h3 span, .evenements .headersection h4 span, .associes .headersection h1 span, .associes .headersection h2 span, .associes .headersection h3 span, .associes .headersection h4 span {
+/* line 78, ../sass/styles.scss */
+.intro h1, .intro h2 {
+  font-family: 'Old Standard TT', serif;
   font-weight: 200;
+  font-size: 2em;
+  color: #373737;
+  font-style: italic;
+  text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
+}
+/* line 84, ../sass/styles.scss */
+.intro h3 {
+  font-family: 'Old Standard TT', serif;
+  font-weight: 200;
+  font-size: 1.5em;
+  color: #373737;
+  font-style: normal;
+  text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
 }
 
-/* line 28, ../sass/styles.scss */
+/* line 96, ../sass/styles.scss */
+.publications .headersection h1, .publications .headersection h2, .publications .headersection h3, .publications .headersection h4, .evenements .headersection h1, .evenements .headersection h2, .evenements .headersection h3, .evenements .headersection h4, .associes .headersection h1, .associes .headersection h2, .associes .headersection h3, .associes .headersection h4 {
+  text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
+  color: white;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 4em;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+/* line 101, ../sass/styles.scss */
+.publications .headersection h1 span, .publications .headersection h2 span, .publications .headersection h3 span, .publications .headersection h4 span, .evenements .headersection h1 span, .evenements .headersection h2 span, .evenements .headersection h3 span, .evenements .headersection h4 span, .associes .headersection h1 span, .associes .headersection h2 span, .associes .headersection h3 span, .associes .headersection h4 span {
+  font-weight: 200;
+  font-size: 0.8em;
+  position: relative;
+  top: -0.15em;
+  line-height: 125%;
+  display: inline-block;
+}
+
+/* line 110, ../sass/styles.scss */
 .publications .headersection {
   background-color: #ed8900;
 }
 
-/* line 32, ../sass/styles.scss */
+/* line 114, ../sass/styles.scss */
 .button-circle {
+  font-size: 2em;
+  text-align: center;
+  padding-top: 0.12em;
   position: relative;
+  color: #fff;
   background-color: #000000;
   height: 66px;
   width: 66px;
@@ -158,7 +587,15 @@
   border-radius: 500px;
   line-height: 42px;
 }
-/* line 40, ../sass/styles.scss */
+/* line 115, ../sass/styles.scss */
+.button-circle:hover {
+  -webkit-animation: my-animation 10s infinite;
+  -moz-animation: my-animation 10s infinite;
+  -ms-animation: my-animation 10s infinite;
+  -o-animation: my-animation 10s infinite;
+  animation: my-animation 10s infinite;
+}
+/* line 128, ../sass/styles.scss */
 .button-circle:before, .button-circle:after {
   content: ' ';
   background-color: transparent;
@@ -168,19 +605,34 @@
   border-radius: 500px;
   z-index: 50;
   position: absolute;
-  top: -10px;
-  left: -10px;
+  top: -12px;
+  left: -12px;
   box-sizing: content-box;
   border-style: solid;
-  border-width: 14px 14px;
+  border-width: 18px 18px;
   border-color: white white transparent transparent;
 }
-/* line 56, ../sass/styles.scss */
+/* line 146, ../sass/styles.scss */
 .button-circle:after {
   content: ' ';
-  top: -9px;
-  left: -11px;
+  top: -11px;
+  left: -13px;
   border-style: solid;
-  border-width: 14px;
   border-color: transparent transparent #fff #fff;
+}
+/* line 157, ../sass/styles.scss */
+.button-circle:hover:after {
+  -webkit-animation: move-circle 0.5s;
+  -moz-animation: move-circle 0.5s;
+  -ms-animation: move-circle 0.5s;
+  -o-animation: move-circle 0.5s;
+  animation: move-circle 0.5s;
+}
+/* line 158, ../sass/styles.scss */
+.button-circle:hover:before {
+  -webkit-animation: move-circle-inverse 0.5s;
+  -moz-animation: move-circle-inverse 0.5s;
+  -ms-animation: move-circle-inverse 0.5s;
+  -o-animation: move-circle-inverse 0.5s;
+  animation: move-circle-inverse 0.5s;
 }

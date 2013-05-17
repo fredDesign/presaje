@@ -8,7 +8,63 @@
 @import "compass";
 @import "compass/css3/border-radius";
 @import "icon/*.png";
+@import "animation";
 @include all-icon-sprites;
+
+@include keyframes(my-animation) {
+  0%, 100% {
+    background-color: blue;
+  }
+  50% {
+    background-color: red;
+  }
+}
+
+@include keyframes(move-circle) {
+  0% {
+    left:-11px ;top:-13px;
+    @include rotate(0deg);
+  }
+  50% {
+    @include rotate(120deg);
+    left:-11px ;   top:-13px;
+  }
+  75% {
+       @include rotate(240deg);
+       left:-11px ;   top:-13px;
+     }
+  100% {
+    @include rotate(360deg);
+    left:-13px ;   top:-13px;
+  }
+}
+
+
+@include keyframes(move-circle-inverse) {
+  0%{                    @include rotate(0deg);
+    left:-12px ;  top:-12px;
+
+  }
+  50% {
+    @include rotate(120deg);
+    left:-11px ;   top:-13px;
+  }
+  75% {
+    @include rotate(240deg);
+    left:-11px ;   top:-13px;
+  }
+  100% {
+    @include rotate(360deg);
+    left:-11px ;   top:-11px;
+  }
+}
+
+
+
+
+
+
+
 #logo {
 
 }
@@ -16,11 +72,37 @@
   @include replace-text-with-dimensions($logo);
   display:inline-block;
 }
+.intro {
+  text-align:center;
+
+  h1,h2 {font-family: 'Old Standard TT', serif;
+    font-weight:200;
+    font-size:2em;
+    color:#373737;
+    font-style:italic;
+  text-shadow: rgba(0, 0, 0, .01) 0 0 1px}
+  h3 {font-family: 'Old Standard TT', serif;
+   font-weight:200;
+   font-size:1.5em;
+   color:#373737;
+   font-style:normal;
+   text-shadow: rgba(0, 0, 0, .01) 0 0 1px
+ }
+
+}
+
 .publications,.evenements,.associes{
   .headersection {
-      h1,h2,h3,h4 {color:$white;
+      h1,h2,h3,h4 {
+        text-shadow: rgba(0, 0, 0, .01) 0 0 1px  ;
+        color:$white;
         text-align: center;
-        span {font-weight:200}
+        font-family: 'Titillium Web', sans-serif;
+        span {font-weight:200;font-size:0.8em;position:relative;top:-0.15em; line-height: 125%;display:inline-block;
+        } ;
+        font-size: 4em;
+        font-weight: 400;
+        text-transform: uppercase;
       }
      }
   }
@@ -30,7 +112,13 @@
   }
 }
 .button-circle {
+  &:hover {@include animation(my-animation 10s infinite);
+  }
+  font-size:2em;
+  text-align:center;
+  padding-top:0.12em;
   position:relative;
+  color:#fff;
   background-color:#000000;
   height:66px;
   width: 66px;
@@ -46,22 +134,28 @@
     border-radius: 500px;
     z-index: 50;
     position: absolute;
-    top:-10px;
-    left:-10px ;
+    top:-12px;
+    left:-12px ;
+
     box-sizing: content-box ;
+
     border-style: solid;
-    border-width: 14px 14px;
+    border-width: 18px 18px;
     border-color: #fff #fff  transparent transparent ;
   }
   &:after {
     content:' ';
 
-    top:-9px;
-    left:-11px ;
+    top:-11px;
+    left:-13px ;
 
     border-style: solid;
-    border-width: 14px;
+
     border-color:  transparent transparent #fff #fff;
+  }
+  &:hover {
+    &:after {@include animation(move-circle 0.5s );}
+    &:before { @include animation(move-circle-inverse 0.5s );}
   }
 
 }
