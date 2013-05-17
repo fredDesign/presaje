@@ -1,0 +1,67 @@
+//
+// Sub Nav Variables
+//
+
+// We use these to control margin and padding
+$nav-preaje-list-margin:        emCalc(-4px) 0 emCalc(18px) !default;
+$nav-preaje-list-padding-top:   emCalc(4px) !default;
+
+// We use this to control the definition
+$nav-preaje-font-size:          emCalc(14px) !default;
+$nav-preaje-font-color:         #999 !default;
+$nav-preaje-font-weight:        normal !default;
+$nav-preaje-text-decoration:    none !default;
+$nav-preaje-border-radius:      1000px !default;
+
+// We use these to control the active item styles
+$nav-preaje-active-font-weight: bold !default;
+$nav-preaje-active-bg:          $primary-color !default;
+$nav-preaje-active-color:       #fff !default;
+$nav-preaje-active-padding:     emCalc(3px) emCalc(9px) !default;
+$nav-preaje-active-cursor:      default !default;
+
+//
+// Sub Nav Mixins
+//
+
+@mixin nav-preaje($font-color:$nav-preaje-font-color, $font-size:$nav-preaje-font-size, $active-bg:$nav-preaje-active-bg) {
+  display: block;
+  width: auto;
+  overflow: hidden;
+  margin: $nav-preaje-list-margin;
+  padding-top: $nav-preaje-list-padding-top;
+  margin-#{$opposite-direction}: 0;
+  margin-#{$default-float}: emCalc(-9px);
+
+  dt,
+  dd {
+    float: $default-float;
+    display: inline;
+    margin-#{$default-float}: emCalc(9px);
+    margin-bottom: emCalc(10px);
+    font-weight: $nav-preaje-font-weight;
+    font-size: $font-size;
+
+    a {
+      color: $font-color;
+      text-decoration: $nav-preaje-text-decoration; }
+
+    &.active a {
+      @include radius($nav-preaje-border-radius);
+      font-weight: $nav-preaje-active-font-weight;
+      background: $active-bg;
+      padding: $nav-preaje-active-padding;
+      cursor: $nav-preaje-active-cursor;
+      color: $nav-preaje-active-color;
+    }
+  }
+
+}
+
+
+@if $include-html-nav-classes != false {
+
+  /* Side Nav */
+  .nav-preaje { @include nav-preaje; }
+
+}
