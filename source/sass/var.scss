@@ -1,19 +1,34 @@
-
-$logo:"logo.png";//YourLogo 
-$logo_small:"logo/logo_small.png";//YourLogo 
-$background:#FFF;//purple
-$alternateColor:#c34c2b;
-$colorText:#202221;
-$link-color:#c34c2b ;//purple
-$white:rgb(255,255,255);
-$bfoot:#1166AA;//blackFoot	
-$dfoot:#1E1E1E;//DarkerBrown
-$ocr:#ed8900;//Ocre=Publications
-$magenta:#e3002e;//=Evenements
-$bgray:#bebec0;//=Associes
-$menu_color:#858180;//Menuorange
-$menu_hover:#e6e6e6;//Menustate
-
-$base-font-size:16px;
-$base-line-height: 22px ;
-$relative-font-sizing : false;
+$logo: "logo.png";
+//YourLogo
+$logo_small: "logo/logo_small.png";
+//YourLogo
+$background: #FFF;
+//purple
+$alternateColor: #c34c2b;
+$colorText: #202221;
+$link-color: #c34c2b;
+//purple
+$white: rgb(255, 255, 255);
+$bfoot: #1166AA;
+//blackFoot
+$dfoot: #1E1E1E;
+//DarkerBrown
+$ocr: #ed8700;
+//Ocre=Publications
+$ocr2: #e99919;
+//Ocre=Publications
+$magenta: #c2000d;
+//=Evenements
+$magenta2: #e2002d;
+//=Evenements
+$bgray: #bdbec0;
+//=Associes
+$bgray2: #bebec0;
+//=Associes
+$menu_color: #858180;
+//Menuorange
+$menu_hover: #e6e6e6;
+//Menustate
+$base-font-size: 16px;
+$base-line-height: 22px;
+$relative-font-sizing: false;
