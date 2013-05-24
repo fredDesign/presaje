@@ -3,7 +3,7 @@
 //
 
 // We use these to control header font styles
-$header-font-family:                   "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif !default;
+$header-font-family:                   "open sans","Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif !default;
 $header-font-weight:                   bold !default;
 $header-font-style:                    normal !default;
 $header-font-color:                    #222 !default;
@@ -195,7 +195,7 @@ h2 { font-size: $h2-font-size - emCalc(10px); }
 h3 { font-size: $h3-font-size - emCalc(5px); }
 h4 { font-size: $h4-font-size - emCalc(5px); }
 h5 { font-size: $h5-font-size; }
-h6 { font-size: $h6-font-size; }
+h6 { font-size: $h6-font-size; text-transform:uppercase; }
 
 .subheader { @extend %subheader; }
 
