@@ -5,10 +5,18 @@
     <ignored path="source.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/app.scss" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368785319369" ignored="false" />
-    <file path="/index.html" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368804315625" ignored="false" />
+    <file path="/index.html" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1369319151098" ignored="false" />
     <file path="/_var.scss" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368785299784" ignored="false" />
-    <file path="/styles.scss" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368805030282" ignored="false" />
-    <file path="/fonts.css" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1368794339185" ignored="false" />
+    <file path="/styles.scss" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1369238591385" ignored="false" />
+    <file path="/fonts.css" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1369217410413" ignored="false" />
+    <file path="/base.html" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1369124888368" ignored="false" />
+    <file path="/skeleton.html" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1369124956171" ignored="false" />
+    <file path="/_top-bar.scss" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1369152046330" ignored="false" />
+    <file path="/gallery_detail.html" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1369213065658" ignored="false" />
+    <file path="/gallery_list.html" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1369213086745" ignored="false" />
+    <file path="/skeleton 2.html" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1369225968177" ignored="false" />
+    <file path="/_type.scss" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1369230982496" ignored="false" />
+    <file path="/Dummy.txt" changelist="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" time="1369325199237" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,17 +36,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/app.scss">
+      <file leaf-file-name="styles.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="0" selection-start="2204" selection-end="2204" vertical-scroll-proportion="0.0">
+            <state line="333" column="20" selection-start="6236" selection-end="6236" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_grid.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/foundation/components/_grid.scss">
+      <file leaf-file-name="_type.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/foundation/components/_type.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="198" column="102" selection-start="6550" selection-end="6550" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_infos.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../archives/_infos.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -46,28 +63,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_settings.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/_settings.scss">
+      <file leaf-file-name="_base.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../archives/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="9" selection-start="781" selection-end="789" vertical-scroll-proportion="0.0">
+            <state line="3" column="20" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/styles.scss">
+      <file leaf-file-name="_global.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/foundation/components/_global.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="25" selection-start="1605" selection-end="1605" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6538" column="19" selection-start="173740" selection-end="173744" vertical-scroll-proportion="0.3097713">
+            <state line="25" column="54" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -76,34 +84,43 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="61" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0">
+            <state line="407" column="28" selection-start="16856" selection-end="16856" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fonts.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stylesheets/fonts.css">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://H:/ressources/iosSlider-master/_demos/_examples/10-Multislide-Visible-Next-Prev/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="822" selection-end="832" vertical-scroll-proportion="0.0">
+            <state line="32" column="80" selection-start="948" selection-end="948" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_var.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../compass_sass_bloxboy/static/sass/_var.scss">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://H:/ressources/iosSlider-master/_demos/_examples/6-Double-Slider-2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="30" selection-start="0" selection-end="494" vertical-scroll-proportion="0.0">
+            <state line="106" column="51" selection-start="2641" selection-end="2641" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="var.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/var.scss">
+      <file leaf-file-name="skeleton.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://H:/django/parrot-crm/src/templates/skeleton.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="6" selection-start="323" selection-end="329" vertical-scroll-proportion="0.0">
+            <state line="17" column="72" selection-start="982" selection-end="982" vertical-scroll-proportion="-0.4722222">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screen.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../archives/screen.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="64" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -119,20 +136,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/sass/foundation/_variables.scss" />
-        <option value="$PROJECT_DIR$/../../../compass_sass_bloxboy/static/sass/_var.scss" />
-        <option value="$PROJECT_DIR$/sass/var.scss" />
-        <option value="$PROJECT_DIR$/stylesheets/fonts.css" />
         <option value="$PROJECT_DIR$/sass/app.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/sass/_settings.scss" />
+        <option value="$PROJECT_DIR$/sass/var.scss" />
+        <option value="$PROJECT_DIR$/sass/foundation/components/_top-bar.scss" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DI19.360/style.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-12/base.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-12/gallery_list.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-12/screen.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-12/skeleton 2.html" />
+        <option value="$PROJECT_DIR$/stylesheets/fonts.css" />
+        <option value="$PROJECT_DIR$/sass/foundation/components/_type.scss" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-12/gallery_detail.html" />
         <option value="$PROJECT_DIR$/sass/styles.scss" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-11/screen 2.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="H:/ressources/iosSlider-master/_demos/_examples/10-Multislide-Visible-Next-Prev/index.html" />
+        <option value="H:/ressources/iosSlider-master/_demos/_examples/6-Double-Slider-2/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="293" />
-    <option name="y" value="127" />
+    <option name="x" value="378" />
+    <option name="y" value="107" />
     <option name="width" value="1458" />
     <option name="height" value="934" />
   </component>
@@ -162,6 +187,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -236,44 +262,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foundation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foundation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="Template Data Languages" />
+    <property name="last_opened_file_path" value="H:/django/parrot-crm" />
     <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="none" serverId="c42b977c-f825-4478-9022-8fb5f4e36572">
     <servers>
@@ -286,6 +291,11 @@
       </server>
     </servers>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\surcouf\Documents\GitHub\projets\presaje\source" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
@@ -293,6 +303,46 @@
       <option name="filePath" />
       <option name="scope" value="ALL" />
       <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeunitConfigurationType" factoryName="Nodeunit">
+      <setting name="nodePath" value="C:/Program Files/nodejs/node" />
+      <envs />
+      <setting name="passParentEnvVars" value="true" />
+      <setting name="nodeunitModuleDir" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="testType" value="JS_FILE" />
+      <setting name="jsFile" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
+      <node-js-remote-debug />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
@@ -305,6 +355,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ae88513d-d9f1-42d2-9ccd-f32785f7e54d" name="Default" comment="" />
@@ -334,7 +401,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="293" y="127" width="1458" height="934" extended-state="0" />
+    <frame x="378" y="107" width="1458" height="934" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -416,92 +483,102 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sass/foundation/components/_nav-presaje.scss">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-12/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="23" selection-start="1147" selection-end="1147" vertical-scroll-proportion="-8.48" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.017094018" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/foundation/_variables.scss">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-12/_block.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1197" column="0" selection-start="29796" selection-end="29796" vertical-scroll-proportion="-33.12" />
+        <state line="10" column="31" selection-start="258" selection-end="259" vertical-scroll-proportion="-4.576923" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/foundation/components/_grid.scss">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-12/gallery_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="28" selection-start="1840" selection-end="1840" vertical-scroll-proportion="1.4529915" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-12/ressource_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="11" selection-start="100" selection-end="100" vertical-scroll-proportion="0.21794872" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/var.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="42" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="333" column="20" selection-start="6236" selection-end="6236" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../archives/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="64" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/foundation/components/_type.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="198" column="102" selection-start="6550" selection-end="6550" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../archives/_infos.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_settings.scss">
+    <entry file="file://$PROJECT_DIR$/../../../../archives/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="9" selection-start="781" selection-end="789" vertical-scroll-proportion="0.0">
+        <state line="3" column="20" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../compass_sass_bloxboy/static/sass/_var.scss">
+    <entry file="file://$PROJECT_DIR$/sass/foundation/components/_global.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="30" selection-start="0" selection-end="494" vertical-scroll-proportion="0.0">
+        <state line="25" column="54" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/styles.css">
+    <entry file="file://H:/ressources/iosSlider-vertical-master/_demos/_examples/10-Multislide-Visible-Next-Prev/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="20" selection-start="898" selection-end="900" vertical-scroll-proportion="-1.3590786" />
-      </provider>
-    </entry>
-    <entry file="file://H:/Projets/presaje/icoFont/syntec81006/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="25" selection-start="2001" selection-end="2130" vertical-scroll-proportion="0.7268965" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="2204" selection-end="2204" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="822" selection-end="832" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascripts/vendor/zepto.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1065" column="10" selection-start="38257" selection-end="38257" vertical-scroll-proportion="0.33188722">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/var.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="6" selection-start="323" selection-end="329" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="61" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0">
+        <state line="407" column="28" selection-start="16856" selection-end="16856" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/styles.scss">
+    <entry file="file://H:/ressources/iosSlider-master/_demos/_examples/10-Multislide-Visible-Next-Prev/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="25" selection-start="1605" selection-end="1605" vertical-scroll-proportion="0.0">
+        <state line="32" column="80" selection-start="948" selection-end="948" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
+    <entry file="file://H:/ressources/iosSlider-master/_demos/_examples/6-Double-Slider-2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6538" column="19" selection-start="173740" selection-end="173744" vertical-scroll-proportion="0.3097713">
+        <state line="106" column="51" selection-start="2641" selection-end="2641" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/django/parrot-crm/src/templates/skeleton.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="72" selection-start="982" selection-end="982" vertical-scroll-proportion="-0.4722222">
           <folding />
         </state>
       </provider>
