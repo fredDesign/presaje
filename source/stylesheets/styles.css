@@ -1,683 +1,1026 @@
 /* line 218, icon/*.png */
 .icon-sprite, .icon-arrow_left, .icon-arrow_right, .icon-bigarrow_left, .icon-bigarrow_right, .icon-bigicon-s2495372ad1_20, .icon-blog, .icon-contact, .icon-dot_left, .icon-dot_off, .icon-dot_on, .icon-dot_right, .icon-facebook, .icon-folder, .icon-google, .icon-home, .icon-key, .icon-plusone, .icon-rss-ico, .icon-twitter, .icon-vimeo, .icon-youtube {
-  background: url('stylesheets/images/icon-sc51f1f8e4f.png') no-repeat;
+    background: url('stylesheets/images/icon-sc51f1f8e4f.png') no-repeat;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-arrow_left {
-  background-position: 0 -614px;
+    background-position: 0 -614px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-arrow_right {
-  background-position: 0 -609px;
+    background-position: 0 -609px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-bigarrow_left {
-  background-position: 0 -179px;
+    background-position: 0 -179px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-bigarrow_right {
-  background-position: 0 -112px;
+    background-position: 0 -112px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-bigicon-s2495372ad1_20 {
-  background-position: 0 -332px;
+    background-position: 0 -332px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-blog {
-  background-position: 0 -92px;
+    background-position: 0 -92px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-contact {
-  background-position: 0 0;
+    background-position: 0 0;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-dot_left {
-  background-position: 0 -403px;
+    background-position: 0 -403px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-dot_off {
-  background-position: 0 -272px;
+    background-position: 0 -272px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-dot_on {
-  background-position: 0 -246px;
+    background-position: 0 -246px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-dot_right {
-  background-position: 0 -373px;
+    background-position: 0 -373px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-facebook {
-  background-position: 0 -569px;
+    background-position: 0 -569px;
 }
+
 /* line 43, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-facebook:hover, .icon-facebook.facebook_hover, .icon-facebook.facebook-hover {
-  background-position: 0 -589px;
+    background-position: 0 -589px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-folder {
-  background-position: 0 -433px;
+    background-position: 0 -433px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-google {
-  background-position: 0 -493px;
+    background-position: 0 -493px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-home {
-  background-position: 0 -553px;
+    background-position: 0 -553px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-key {
-  background-position: 0 -315px;
+    background-position: 0 -315px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-plusone {
-  background-position: 0 -353px;
+    background-position: 0 -353px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-rss-ico {
-  background-position: 0 -298px;
+    background-position: 0 -298px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-twitter {
-  background-position: 0 -453px;
+    background-position: 0 -453px;
 }
+
 /* line 43, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-twitter:hover, .icon-twitter.twitter_hover, .icon-twitter.twitter-hover {
-  background-position: 0 -473px;
+    background-position: 0 -473px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-vimeo {
-  background-position: 0 -513px;
+    background-position: 0 -513px;
 }
 
 /* line 60, ../../../../../../../../compass126/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .icon-youtube {
-  background-position: 0 -533px;
+    background-position: 0 -533px;
 }
 
 @-moz-keyframes my-animation {
-  /* line 15, ../sass/styles.scss */
-  0%, 100% {
-    background-color: blue;
-  }
+    /* line 12, ../sass/styles.scss */
+    0%, 100% {
+        background-color: blue;
+    }
 
-  /* line 18, ../sass/styles.scss */
-  50% {
-    background-color: red;
-  }
+    /* line 15, ../sass/styles.scss */
+    50% {
+        background-color: red;
+    }
 }
 
 @-webkit-keyframes my-animation {
-  /* line 15, ../sass/styles.scss */
-  0%, 100% {
-    background-color: blue;
-  }
+    /* line 12, ../sass/styles.scss */
+    0%, 100% {
+        background-color: blue;
+    }
 
-  /* line 18, ../sass/styles.scss */
-  50% {
-    background-color: red;
-  }
+    /* line 15, ../sass/styles.scss */
+    50% {
+        background-color: red;
+    }
 }
 
 @-o-keyframes my-animation {
-  /* line 15, ../sass/styles.scss */
-  0%, 100% {
-    background-color: blue;
-  }
+    /* line 12, ../sass/styles.scss */
+    0%, 100% {
+        background-color: blue;
+    }
 
-  /* line 18, ../sass/styles.scss */
-  50% {
-    background-color: red;
-  }
+    /* line 15, ../sass/styles.scss */
+    50% {
+        background-color: red;
+    }
 }
 
 @-ms-keyframes my-animation {
-  /* line 15, ../sass/styles.scss */
-  0%, 100% {
-    background-color: blue;
-  }
+    /* line 12, ../sass/styles.scss */
+    0%, 100% {
+        background-color: blue;
+    }
 
-  /* line 18, ../sass/styles.scss */
-  50% {
-    background-color: red;
-  }
+    /* line 15, ../sass/styles.scss */
+    50% {
+        background-color: red;
+    }
 }
 
 @keyframes my-animation {
-  /* line 15, ../sass/styles.scss */
-  0%, 100% {
-    background-color: blue;
-  }
+    /* line 12, ../sass/styles.scss */
+    0%, 100% {
+        background-color: blue;
+    }
 
-  /* line 18, ../sass/styles.scss */
-  50% {
-    background-color: red;
-  }
+    /* line 15, ../sass/styles.scss */
+    50% {
+        background-color: red;
+    }
+}
+
+@-moz-keyframes circlecolor-animation {
+    /* line 21, ../sass/styles.scss */
+    100% {
+        background-color: #fff;
+    }
+}
+
+@-webkit-keyframes circlecolor-animation {
+    /* line 21, ../sass/styles.scss */
+    100% {
+        background-color: #fff;
+    }
+}
+
+@-o-keyframes circlecolor-animation {
+    /* line 21, ../sass/styles.scss */
+    100% {
+        background-color: #fff;
+    }
+}
+
+@-ms-keyframes circlecolor-animation {
+    /* line 21, ../sass/styles.scss */
+    100% {
+        background-color: #fff;
+    }
+}
+
+@keyframes circlecolor-animation {
+    /* line 21, ../sass/styles.scss */
+    100% {
+        background-color: #fff;
+    }
 }
 
 @-moz-keyframes move-circle {
-  /* line 24, ../sass/styles.scss */
-  0% {
-    left: -11px;
-    top: -13px;
-    -moz-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
+    /* line 28, ../sass/styles.scss */
+    0% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 28, ../sass/styles.scss */
-  50% {
-    -moz-transform: rotate(120deg);
-    transform: rotate(120deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 33, ../sass/styles.scss */
+    25% {
+        left: -11px;
+        top: -10px;
+    }
 
-  /* line 32, ../sass/styles.scss */
-  75% {
-    -moz-transform: rotate(240deg);
-    transform: rotate(240deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 39, ../sass/styles.scss */
+    50% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 36, ../sass/styles.scss */
-  100% {
-    -moz-transform: rotate(360deg);
-    transform: rotate(360deg);
-    left: -13px;
-    top: -13px;
-  }
+    /* line 44, ../sass/styles.scss */
+    75% {
+        left: -13px;
+        top: -11px;
+    }
+
+    /* line 49, ../sass/styles.scss */
+    100% {
+        left: -12px;
+        top: -11px;
+    }
 }
 
 @-webkit-keyframes move-circle {
-  /* line 24, ../sass/styles.scss */
-  0% {
-    left: -11px;
-    top: -13px;
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
+    /* line 28, ../sass/styles.scss */
+    0% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 28, ../sass/styles.scss */
-  50% {
-    -webkit-transform: rotate(120deg);
-    transform: rotate(120deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 33, ../sass/styles.scss */
+    25% {
+        left: -11px;
+        top: -10px;
+    }
 
-  /* line 32, ../sass/styles.scss */
-  75% {
-    -webkit-transform: rotate(240deg);
-    transform: rotate(240deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 39, ../sass/styles.scss */
+    50% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 36, ../sass/styles.scss */
-  100% {
-    -webkit-transform: rotate(360deg);
-    transform: rotate(360deg);
-    left: -13px;
-    top: -13px;
-  }
+    /* line 44, ../sass/styles.scss */
+    75% {
+        left: -13px;
+        top: -11px;
+    }
+
+    /* line 49, ../sass/styles.scss */
+    100% {
+        left: -12px;
+        top: -11px;
+    }
 }
 
 @-o-keyframes move-circle {
-  /* line 24, ../sass/styles.scss */
-  0% {
-    left: -11px;
-    top: -13px;
-    -o-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
+    /* line 28, ../sass/styles.scss */
+    0% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 28, ../sass/styles.scss */
-  50% {
-    -o-transform: rotate(120deg);
-    transform: rotate(120deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 33, ../sass/styles.scss */
+    25% {
+        left: -11px;
+        top: -10px;
+    }
 
-  /* line 32, ../sass/styles.scss */
-  75% {
-    -o-transform: rotate(240deg);
-    transform: rotate(240deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 39, ../sass/styles.scss */
+    50% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 36, ../sass/styles.scss */
-  100% {
-    -o-transform: rotate(360deg);
-    transform: rotate(360deg);
-    left: -13px;
-    top: -13px;
-  }
+    /* line 44, ../sass/styles.scss */
+    75% {
+        left: -13px;
+        top: -11px;
+    }
+
+    /* line 49, ../sass/styles.scss */
+    100% {
+        left: -12px;
+        top: -11px;
+    }
 }
 
 @-ms-keyframes move-circle {
-  /* line 24, ../sass/styles.scss */
-  0% {
-    left: -11px;
-    top: -13px;
-    -ms-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
+    /* line 28, ../sass/styles.scss */
+    0% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 28, ../sass/styles.scss */
-  50% {
-    -ms-transform: rotate(120deg);
-    transform: rotate(120deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 33, ../sass/styles.scss */
+    25% {
+        left: -11px;
+        top: -10px;
+    }
 
-  /* line 32, ../sass/styles.scss */
-  75% {
-    -ms-transform: rotate(240deg);
-    transform: rotate(240deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 39, ../sass/styles.scss */
+    50% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 36, ../sass/styles.scss */
-  100% {
-    -ms-transform: rotate(360deg);
-    transform: rotate(360deg);
-    left: -13px;
-    top: -13px;
-  }
+    /* line 44, ../sass/styles.scss */
+    75% {
+        left: -13px;
+        top: -11px;
+    }
+
+    /* line 49, ../sass/styles.scss */
+    100% {
+        left: -12px;
+        top: -11px;
+    }
 }
 
 @keyframes move-circle {
-  /* line 24, ../sass/styles.scss */
-  0% {
-    left: -11px;
-    top: -13px;
-    transform: rotate(0deg);
-  }
+    /* line 28, ../sass/styles.scss */
+    0% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 28, ../sass/styles.scss */
-  50% {
-    transform: rotate(120deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 33, ../sass/styles.scss */
+    25% {
+        left: -11px;
+        top: -10px;
+    }
 
-  /* line 32, ../sass/styles.scss */
-  75% {
-    transform: rotate(240deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 39, ../sass/styles.scss */
+    50% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 36, ../sass/styles.scss */
-  100% {
-    transform: rotate(360deg);
-    left: -13px;
-    top: -13px;
-  }
+    /* line 44, ../sass/styles.scss */
+    75% {
+        left: -13px;
+        top: -11px;
+    }
+
+    /* line 49, ../sass/styles.scss */
+    100% {
+        left: -12px;
+        top: -11px;
+    }
 }
 
 @-moz-keyframes move-circle-inverse {
-  /* line 44, ../sass/styles.scss */
-  0% {
-    -moz-transform: rotate(0deg);
-    transform: rotate(0deg);
-    left: -12px;
-    top: -12px;
-  }
+    /* line 57, ../sass/styles.scss */
+    0% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 48, ../sass/styles.scss */
-  50% {
-    -moz-transform: rotate(120deg);
-    transform: rotate(120deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 63, ../sass/styles.scss */
+    25% {
+        left: -13px;
+        top: -12px;
+    }
 
-  /* line 52, ../sass/styles.scss */
-  75% {
-    -moz-transform: rotate(240deg);
-    transform: rotate(240deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 68, ../sass/styles.scss */
+    50% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 56, ../sass/styles.scss */
-  100% {
-    -moz-transform: rotate(360deg);
-    transform: rotate(360deg);
-    left: -11px;
-    top: -11px;
-  }
+    /* line 73, ../sass/styles.scss */
+    75% {
+        left: -11px;
+        top: -10px;
+    }
+
+    /* line 78, ../sass/styles.scss */
+    100% {
+        left: -12px;
+        top: -11px;
+    }
 }
 
 @-webkit-keyframes move-circle-inverse {
-  /* line 44, ../sass/styles.scss */
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-    left: -12px;
-    top: -12px;
-  }
+    /* line 57, ../sass/styles.scss */
+    0% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 48, ../sass/styles.scss */
-  50% {
-    -webkit-transform: rotate(120deg);
-    transform: rotate(120deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 63, ../sass/styles.scss */
+    25% {
+        left: -13px;
+        top: -12px;
+    }
 
-  /* line 52, ../sass/styles.scss */
-  75% {
-    -webkit-transform: rotate(240deg);
-    transform: rotate(240deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 68, ../sass/styles.scss */
+    50% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 56, ../sass/styles.scss */
-  100% {
-    -webkit-transform: rotate(360deg);
-    transform: rotate(360deg);
-    left: -11px;
-    top: -11px;
-  }
+    /* line 73, ../sass/styles.scss */
+    75% {
+        left: -11px;
+        top: -10px;
+    }
+
+    /* line 78, ../sass/styles.scss */
+    100% {
+        left: -12px;
+        top: -11px;
+    }
 }
 
 @-o-keyframes move-circle-inverse {
-  /* line 44, ../sass/styles.scss */
-  0% {
-    -o-transform: rotate(0deg);
-    transform: rotate(0deg);
-    left: -12px;
-    top: -12px;
-  }
+    /* line 57, ../sass/styles.scss */
+    0% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 48, ../sass/styles.scss */
-  50% {
-    -o-transform: rotate(120deg);
-    transform: rotate(120deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 63, ../sass/styles.scss */
+    25% {
+        left: -13px;
+        top: -12px;
+    }
 
-  /* line 52, ../sass/styles.scss */
-  75% {
-    -o-transform: rotate(240deg);
-    transform: rotate(240deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 68, ../sass/styles.scss */
+    50% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 56, ../sass/styles.scss */
-  100% {
-    -o-transform: rotate(360deg);
-    transform: rotate(360deg);
-    left: -11px;
-    top: -11px;
-  }
+    /* line 73, ../sass/styles.scss */
+    75% {
+        left: -11px;
+        top: -10px;
+    }
+
+    /* line 78, ../sass/styles.scss */
+    100% {
+        left: -12px;
+        top: -11px;
+    }
 }
 
 @-ms-keyframes move-circle-inverse {
-  /* line 44, ../sass/styles.scss */
-  0% {
-    -ms-transform: rotate(0deg);
-    transform: rotate(0deg);
-    left: -12px;
-    top: -12px;
-  }
+    /* line 57, ../sass/styles.scss */
+    0% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 48, ../sass/styles.scss */
-  50% {
-    -ms-transform: rotate(120deg);
-    transform: rotate(120deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 63, ../sass/styles.scss */
+    25% {
+        left: -13px;
+        top: -12px;
+    }
 
-  /* line 52, ../sass/styles.scss */
-  75% {
-    -ms-transform: rotate(240deg);
-    transform: rotate(240deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 68, ../sass/styles.scss */
+    50% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 56, ../sass/styles.scss */
-  100% {
-    -ms-transform: rotate(360deg);
-    transform: rotate(360deg);
-    left: -11px;
-    top: -11px;
-  }
+    /* line 73, ../sass/styles.scss */
+    75% {
+        left: -11px;
+        top: -10px;
+    }
+
+    /* line 78, ../sass/styles.scss */
+    100% {
+        left: -12px;
+        top: -11px;
+    }
 }
 
 @keyframes move-circle-inverse {
-  /* line 44, ../sass/styles.scss */
-  0% {
-    transform: rotate(0deg);
-    left: -12px;
-    top: -12px;
-  }
+    /* line 57, ../sass/styles.scss */
+    0% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 48, ../sass/styles.scss */
-  50% {
-    transform: rotate(120deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 63, ../sass/styles.scss */
+    25% {
+        left: -13px;
+        top: -12px;
+    }
 
-  /* line 52, ../sass/styles.scss */
-  75% {
-    transform: rotate(240deg);
-    left: -11px;
-    top: -13px;
-  }
+    /* line 68, ../sass/styles.scss */
+    50% {
+        left: -12px;
+        top: -11px;
+    }
 
-  /* line 56, ../sass/styles.scss */
-  100% {
-    transform: rotate(360deg);
-    left: -11px;
-    top: -11px;
-  }
+    /* line 73, ../sass/styles.scss */
+    75% {
+        left: -11px;
+        top: -10px;
+    }
+
+    /* line 78, ../sass/styles.scss */
+    100% {
+        left: -12px;
+        top: -11px;
+    }
 }
 
-/* line 71, ../sass/styles.scss */
-.logo {
-  text-indent: -119988px;
-  overflow: hidden;
-  text-align: left;
-  background-image: url('stylesheets/images/logo.png?1368802200');
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  width: 280px;
-  height: 100px;
-  display: inline-block;
-  background-image: url("images/logo.png");
-}
-
-/* line 76, ../sass/styles.scss */
-.intro {
-  text-align: center;
-}
-/* line 79, ../sass/styles.scss */
-.intro h1, .intro .publications .headersection h4, .publications .headersection .intro h4, .intro .actualites .headersection h4, .actualites .headersection .intro h4, .intro .associes .headersection h4, .associes .headersection .intro h4, .intro h2 {
-  font-family: 'Old Standard TT', serif;
-  font-weight: 200;
-  font-size: 2em;
-  color: #373737;
-  font-style: italic;
-  text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
-}
 /* line 85, ../sass/styles.scss */
-.intro h3 {
-  font-family: 'Old Standard TT', serif;
-  font-weight: 200;
-  font-size: 1.5em;
-  color: #373737;
-  font-style: normal;
-  text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
+.button-circle {
+    font-size: 2em;
+    text-align: center;
+    padding-top: 0.12em;
+    position: relative;
+    color: #fff;
+    background-color: #000000;
+    height: 66px;
+    width: 66px;
+    border: 8px solid #000;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    -ms-border-radius: 500px;
+    -o-border-radius: 500px;
+    border-radius: 500px;
+    line-height: 50px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
-/* line 95, ../sass/styles.scss */
-.banniere_top {
-  background: url(images/banniere.jpg) repeat-x center center;
-  height: 88px;
-  -webkit-box-shadow: 0px 16px 16px #bbbbbb;
-  -moz-box-shadow: 0px 16px 16px #bbbbbb;
-  box-shadow: 0px 16px 16px #bbbbbb;
+/* line 86, ../sass/styles.scss */
+.button-circle:hover {
+    -webkit-animation: my-animation 10s infinite;
+    -moz-animation: my-animation 10s infinite;
+    -ms-animation: my-animation 10s infinite;
+    -o-animation: my-animation 10s infinite;
+    animation: my-animation 10s infinite;
 }
 
-/* line 100, ../sass/styles.scss */
-.backico {
-  font-size: 14em;
-  top: -20px;
-  color: white;
-  position: absolute;
-  left: -10%;
+/* line 101, ../sass/styles.scss */
+.button-circle:before, .button-circle:after {
+    content: ' ';
+    background-color: transparent;
+    display: block;
+    height: 42px;
+    width: 42px;
+    border-radius: 500px;
+    z-index: 50;
+    position: absolute;
+    top: -11px;
+    left: -12px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    box-sizing: content-box;
+    border-style: solid;
+    border-width: 18px 18px;
+    border-color: #fff #fff transparent transparent;
 }
 
-/* line 108, ../sass/styles.scss */
-.publications, .actualites, .associes {
-  position: relative;
-}
-/* line 110, ../sass/styles.scss */
-.publications .headersection, .actualites .headersection, .associes .headersection {
-  -webkit-box-shadow: 0 0 80px #dfdfdf;
-  -moz-box-shadow: 0 0 80px #dfdfdf;
-  box-shadow: 0 0 80px #dfdfdf;
-  padding: 20px 0 40px;
-}
-/* line 113, ../sass/styles.scss */
-.publications .headersection h1, .publications .headersection h4, .actualites .headersection h1, .actualites .headersection h4, .associes .headersection h1, .associes .headersection h4 {
-  text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
-  color: white;
-  text-align: center;
-  font-family: 'Titillium Web', sans-serif;
-  font-size: 4em;
-  font-weight: 400;
-  text-transform: uppercase;
-  margin-bottom: 0px;
-}
-/* line 118, ../sass/styles.scss */
-.publications .headersection h1 span, .publications .headersection h4 span, .actualites .headersection h1 span, .actualites .headersection h4 span, .associes .headersection h1 span, .associes .headersection h4 span {
-  font-weight: 200;
-  font-size: 0.8em;
-  position: relative;
-  top: -0.15em;
-  line-height: 125%;
-  display: inline-block;
-}
-/* line 125, ../sass/styles.scss */
-.publications .headersection h4, .actualites .headersection h4, .associes .headersection h4 {
-  font-size: 1em;
+/* line 119, ../sass/styles.scss */
+.button-circle:after {
+    content: ' ';
+    top: -11px;
+    left: -13px;
+    border-style: solid;
+    border-color: transparent transparent #fff #fff;
 }
 
-/* line 138, ../sass/styles.scss */
-.publications .headersection {
-  background-color: #ed8900;
+/* line 127, ../sass/styles.scss */
+.button-circle:hover:after {
+    -webkit-animation: move-circle 1.5s infinite;
+    -moz-animation: move-circle 1.5s infinite;
+    -ms-animation: move-circle 1.5s infinite;
+    -o-animation: move-circle 1.5s infinite;
+    animation: move-circle 1.5s infinite;
 }
 
-/* line 143, ../sass/styles.scss */
-.actualites .headersection {
-  background-color: #e3002e;
+/* line 130, ../sass/styles.scss */
+.button-circle:hover:before {
+    -webkit-animation: move-circle-inverse 1.5s infinite;
+    -moz-animation: move-circle-inverse 1.5s infinite;
+    -ms-animation: move-circle-inverse 1.5s infinite;
+    -o-animation: move-circle-inverse 1.5s infinite;
+    animation: move-circle-inverse 1.5s infinite;
+}
+
+/* line 134, ../sass/styles.scss */
+.button-circle.mail {
+    font-size: 1.3em;
+}
+
+/* line 140, ../sass/styles.scss */
+.gotosection {
+    margin-top: 4em;
+}
+
+/* line 142, ../sass/styles.scss */
+.gotosection .large-centered {
+    position: relative;
 }
 
 /* line 148, ../sass/styles.scss */
-.associes .headersection {
-  background-color: #bebec0;
+.button-circle-big {
+    text-align: center;
+    font-size: 2.4em;
+    position: absolute;
+    top: -35px;
+    color: #fff;
+    background-color: #fff;
+    display: block;
+    z-index: 2;
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    background: #00f;
+    -webkit-box-shadow: 0 0 40px black;
+    -moz-box-shadow: 0 0 40px black;
+    box-shadow: 0 0 40px black;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    -ms-border-radius: 500px;
+    -o-border-radius: 500px;
+    border-radius: 500px;
 }
 
-/* line 152, ../sass/styles.scss */
-.button-circle {
-  font-size: 2em;
-  text-align: center;
-  padding-top: 0.12em;
-  position: relative;
-  color: #fff;
-  background-color: #000000;
-  height: 66px;
-  width: 66px;
-  border: 8px solid #000;
-  -webkit-border-radius: 500px;
-  -moz-border-radius: 500px;
-  -ms-border-radius: 500px;
-  -o-border-radius: 500px;
-  border-radius: 500px;
-  line-height: 42px;
+/* line 150, ../sass/styles.scss */
+.button-circle-big:hover:before {
+    -webkit-animation: circlecolor-animation 2s;
+    -moz-animation: circlecolor-animation 2s;
+    -ms-animation: circlecolor-animation 2s;
+    -o-animation: circlecolor-animation 2s;
+    animation: circlecolor-animation 2s;
 }
-/* line 153, ../sass/styles.scss */
-.button-circle:hover {
-  -webkit-animation: my-animation 10s infinite;
-  -moz-animation: my-animation 10s infinite;
-  -ms-animation: my-animation 10s infinite;
-  -o-animation: my-animation 10s infinite;
-  animation: my-animation 10s infinite;
+
+/* line 168, ../sass/styles.scss */
+.button-circle-big:before {
+    z-index: 5;
+    background-color: #000000;
+    height: 70px;
+    width: 70px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    -ms-border-radius: 500px;
+    -o-border-radius: 500px;
+    border-radius: 500px;
+    line-height: 70px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    content: '2 ';
+    top: 0px;
+    left: 0px;
+    display: block;
+    position: absolute;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    box-sizing: content-box;
 }
-/* line 166, ../sass/styles.scss */
-.button-circle:before, .button-circle:after {
-  content: ' ';
-  background-color: transparent;
-  display: block;
-  height: 42px;
-  width: 42px;
-  border-radius: 500px;
-  z-index: 50;
-  position: absolute;
-  top: -12px;
-  left: -12px;
-  box-sizing: content-box;
-  border-style: solid;
-  border-width: 18px 18px;
-  border-color: white white transparent transparent;
+
+/* line 186, ../sass/styles.scss */
+.button-circle-big:after {
+    position: absolute;
+    z-index: 0;
+    content: ' ';
+    top: -40px;
+    left: -40px;
+    display: block;
+    height: 75px;
+    width: 150px;
+    background: #fff;
 }
-/* line 184, ../sass/styles.scss */
-.button-circle:after {
-  content: ' ';
-  top: -11px;
-  left: -13px;
-  border-style: solid;
-  border-color: transparent transparent #fff #fff;
+
+/* line 200, ../sass/styles.scss */
+.button-circle-big.mail {
+    font-size: 1.3em;
 }
-/* line 195, ../sass/styles.scss */
-.button-circle:hover:after {
-  -webkit-animation: move-circle 0.5s;
-  -moz-animation: move-circle 0.5s;
-  -ms-animation: move-circle 0.5s;
-  -o-animation: move-circle 0.5s;
-  animation: move-circle 0.5s;
+
+/* line 206, ../sass/styles.scss */
+#logo {
+    position: absolute;
+    top: 20px;
+    left: 0px;
+    z-index: 99;
 }
-/* line 196, ../sass/styles.scss */
-.button-circle:hover:before {
-  -webkit-animation: move-circle-inverse 0.5s;
-  -moz-animation: move-circle-inverse 0.5s;
-  -ms-animation: move-circle-inverse 0.5s;
-  -o-animation: move-circle-inverse 0.5s;
-  animation: move-circle-inverse 0.5s;
+
+/* line 213, ../sass/styles.scss */
+.logo {
+    text-indent: -119988px;
+    overflow: hidden;
+    text-align: left;
+    background-image: url('stylesheets/images/logo.png?1368802200');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 280px;
+    height: 100px;
+    display: inline-block;
+    background-image: url("images/logo.png");
+}
+
+/* line 219, ../sass/styles.scss */
+.intro {
+    text-align: center;
+}
+
+/* line 222, ../sass/styles.scss */
+.intro h1, .intro .publications .headersection h4, .publications .headersection .intro h4, .intro .actualites .headersection h4, .actualites .headersection .intro h4, .intro .associes .headersection h4, .associes .headersection .intro h4, .intro h2 {
+    font-family: 'Old Standard TT', serif;
+    font-weight: 800;
+    font-size: 2em;
+    line-height: 1.2em;
+    color: #373737;
+    font-style: italic;
+    text-shadow: rgba(0, 0, 0, 0.25) 0 0 6px;
+    margin-top: 1em;
+}
+
+/* line 232, ../sass/styles.scss */
+.intro h3 {
+    font-family: 'Old Standard TT', serif;
+    font-weight: 200;
+    font-size: 1.5em;
+    color: #373737;
+    font-style: normal;
+    text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
+    margin-bottom: 1em;
+}
+
+/* line 244, ../sass/styles.scss */
+.banniere_top {
+    background: url(images/banniere.jpg) repeat-x center center;
+    height: 88px;
+    -webkit-box-shadow: 0px 2px 2px #cccccc;
+    -moz-box-shadow: 0px 2px 2px #cccccc;
+    box-shadow: 0px 2px 2px #cccccc;
+    padding: 1.6em;
+}
+
+/* line 251, ../sass/styles.scss */
+.backico {
+    font-size: 14em;
+    bottom: 0px;
+    height: 0.80em;
+    display: inline-block;
+    overflow: hidden;
+    color: white;
+    position: absolute;
+    left: -10%;
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+    opacity: 0.5;
+}
+
+/* line 263, ../sass/styles.scss */
+.publications, .actualites, .associes {
+    position: relative;
+}
+
+/* line 265, ../sass/styles.scss */
+.publications .headersection, .actualites .headersection, .associes .headersection {
+    overflow: hidden;
+    -webkit-box-shadow: 0 80px 80px #efefef;
+    -moz-box-shadow: 0 80px 80px #efefef;
+    box-shadow: 0 80px 80px #efefef;
+    padding: 20px 0 0px;
+}
+
+/* line 269, ../sass/styles.scss */
+.publications .headersection h1, .publications .headersection h4, .actualites .headersection h1, .actualites .headersection h4, .associes .headersection h1, .associes .headersection h4 {
+    text-shadow: rgba(0, 0, 0, 0.15) 0 0 1px;
+    color: white;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 4em;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+
+/* line 274, ../sass/styles.scss */
+.publications .headersection h1 span, .publications .headersection h4 span, .actualites .headersection h1 span, .actualites .headersection h4 span, .associes .headersection h1 span, .associes .headersection h4 span {
+    font-weight: 200;
+    font-size: 0.8em;
+    position: relative;
+    top: -0.15em;
+    line-height: 125%;
+    display: inline-block;
+}
+
+/* line 288, ../sass/styles.scss */
+.publications .headersection h4, .actualites .headersection h4, .associes .headersection h4 {
+    font-size: 1.5em;
+    padding-bottom: 2em;
+}
+
+/* line 294, ../sass/styles.scss */
+.publications .headersection h4 span:before, .actualites .headersection h4 span:before, .associes .headersection h4 span:before {
+    content: "---------------------------------";
+    letter-spacing: -2px;
+    font-size: 0.5em;
+    line-height: 0.5em;
+    padding-right: 8px;
+}
+
+/* line 302, ../sass/styles.scss */
+.publications .headersection h4 span:after, .actualites .headersection h4 span:after, .associes .headersection h4 span:after {
+    content: "---------------------------------";
+    letter-spacing: -2px;
+    font-size: 0.5em;
+    line-height: 0.5em;
+    padding-left: 8px;
+}
+
+/* line 316, ../sass/styles.scss */
+.publications .headersection {
+    background-color: #ed8700;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ed8700), color-stop(100%, #e99919));
+    background-image: -webkit-linear-gradient(#ed8700, #e99919);
+    background-image: -moz-linear-gradient(#ed8700, #e99919);
+    background-image: -o-linear-gradient(#ed8700, #e99919);
+    background-image: linear-gradient(#ed8700, #e99919);
+}
+
+/* line 321, ../sass/styles.scss */
+.publications .button-circle-big:hover {
+    color: #000;
+}
+
+/* line 324, ../sass/styles.scss */
+.publications .button-circle-big:before {
+    background-color: #ed8700;
+}
+
+/* line 329, ../sass/styles.scss */
+.publications .content * {
+    color: #ed8700;
+}
+
+/* line 332, ../sass/styles.scss */
+.publications .content .button-circle {
+    color: white;
+}
+
+/* line 336, ../sass/styles.scss */
+.publications .button-circle {
+    background-color: #ed8700;
+    border-color: #ed8700;
+}
+
+/* line 343, ../sass/styles.scss */
+.actualites .backico {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=75);
+    opacity: 0.75;
+    right: -10%;
+    left: auto;
+}
+
+/* line 348, ../sass/styles.scss */
+.actualites .headersection {
+    background-color: #c2000d;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c2000d), color-stop(100%, #e2002d));
+    background-image: -webkit-linear-gradient(#c2000d, #e2002d);
+    background-image: -moz-linear-gradient(#c2000d, #e2002d);
+    background-image: -o-linear-gradient(#c2000d, #e2002d);
+    background-image: linear-gradient(#c2000d, #e2002d);
+}
+
+/* line 354, ../sass/styles.scss */
+.actualites .button-circle-big:hover {
+    color: #000;
+}
+
+/* line 357, ../sass/styles.scss */
+.actualites .button-circle-big:before {
+    background-color: #c2000d;
+}
+
+/* line 362, ../sass/styles.scss */
+.actualites .button-circle {
+    background-color: #c2000d;
+    border-color: #c2000d;
+}
+
+/* line 366, ../sass/styles.scss */
+.actualites .content {
+    margin-top: 2em;
+    padding-bottom: 1em;
+}
+
+/* line 369, ../sass/styles.scss */
+.actualites .content .prev, .actualites .content .next {
+    width: 100%;
+    text-align: center;
+    font-size: 3em;
+    line-height: 2em;
+}
+
+/* line 379, ../sass/styles.scss */
+.associes .headersection {
+    background-color: #bdbec0;
+}
+
+/* line 384, ../sass/styles.scss */
+.associes .button-circle-big:hover {
+    color: #000;
+}
+
+/* line 387, ../sass/styles.scss */
+.associes .button-circle-big:before {
+    background-color: #bdbec0;
+}
+
+/* line 391, ../sass/styles.scss */
+.associes .button-circle {
+    background-color: #ed8700;
+    border-color: #ed8700;
+}
+
+/*******publis******/
+/* line 398, ../sass/styles.scss */
+.publis {
+    margin-bottom: 0em;
+    padding: 2em;
+    position: relative;
+    top: -20px;
+    background: transparent;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+    background-image: url("images/bg_spe.png");
+    background-repeat: no-repeat;
+}
+
+/* line 408, ../sass/styles.scss */
+.publis img {
+    -webkit-box-shadow: 0 0 8px #999999;
+    -moz-box-shadow: 0 0 8px #999999;
+    box-shadow: 0 0 8px #999999;
+    margin-bottom: 2em;
+    width: 80%;
+    margin: 10%;
+}
+
+/* line 416, ../sass/styles.scss */
+.inline-center {
+    text-align: center;
+}
+
+/* line 418, ../sass/styles.scss */
+.inline-center li, .inline-center img, .inline-center div, .inline-center h1, .inline-center .publications .headersection h4, .publications .headersection .inline-center h4, .inline-center .actualites .headersection h4, .actualites .headersection .inline-center h4, .inline-center .associes .headersection h4, .associes .headersection .inline-center h4, .inline-center h2, .inline-center h3, .inline-center h4, .inline-center h5 {
+    display: inline-block;
+    text-align: center;
+}
+
+/**************nav *******/
+/* line 430, ../sass/styles.scss */
+.top-bar a.niv1 {
+    border-top: #FFF solid 6px;
+}
+
+/* line 432, ../sass/styles.scss */
+.top-bar a.niv1.active {
+    border-top: #c00 solid 6px;
+}
+
+/**************footer *******/
+/* line 440, ../sass/styles.scss */
+#footer div > ul {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin: 2em 0;
+    padding: 2em 0;
+    font-size: 0.8em;
+}
+
+/* line 448, ../sass/styles.scss */
+#footer * {
+    color: #8d94a3;
+}
+
+/**************closer *******/
+/* line 455, ../sass/styles.scss */
+#closer span, #closer .inline-list {
+    font-size: 0.64em;
+    margin-bottom: 2em;
+}
+
+/* line 459, ../sass/styles.scss */
+#closer .inline-list {
+    margin-top: 1em;
+}
+
+/* line 464, ../sass/styles.scss */
+.shadow {
+    -webkit-box-shadow: 0 0 4px #cccccc;
+    -moz-box-shadow: 0 0 4px #cccccc;
+    box-shadow: 0 0 4px #cccccc;
 }
