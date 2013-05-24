@@ -2012,3 +2012,9 @@ when it has other properties nested beneath it.
 2013-05-24 16:36:53    create stylesheets/images/icon-sc51f1f8e4f.png
 2013-05-24 16:36:53    create stylesheets/styles.css 
 2013-05-24 16:36:53    create stylesheets/var.css 
+2013-05-24 16:58:21 unchanged stylesheets/images/icon-sc51f1f8e4f.png
+2013-05-24 16:58:22 overwrite stylesheets/styles.css 
+2013-05-24 16:58:22 identical stylesheets/var.css 
+2013-05-24 17:21:12 unchanged stylesheets/images/icon-sc51f1f8e4f.png
+2013-05-24 17:21:12 identical stylesheets/styles.css 
+2013-05-24 17:21:12 identical stylesheets/var.css 

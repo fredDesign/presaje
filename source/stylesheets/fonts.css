@@ -1,126 +1,144 @@
 @font-face {
-	font-family: 'presaje';
-	src:url('fonts/presaje.eot');
-	src:url('fonts/presaje.eot?#iefix') format('embedded-opentype'),
-		url('fonts/presaje.woff') format('woff'),
-		url('fonts/presaje.ttf') format('truetype'),
-		url('fonts/presaje.svg#presaje') format('svg');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'presaje';
+    src: url('fonts/presaje.eot');
+    src: url('fonts/presaje.eot?#iefix') format('embedded-opentype'), url('fonts/presaje.woff') format('woff'), url('fonts/presaje.ttf') format('truetype'), url('fonts/presaje.svg#presaje') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 /* Use the following CSS code if you want to use data attributes for inserting your icons */
 [data-icon]:before {
-	font-family: 'presaje';
-	content: attr(data-icon);
-	speak: none;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
-	-webkit-font-smoothing: antialiased;
-    color:#1166AA;
-    margin-right:0.5em;
+    font-family: 'presaje';
+    content: attr(data-icon);
+    speak: none;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    color: #1166AA;
+    margin-right: 0.5em;
 }
 
 /* Use the following CSS code if you want to have a class per icon */
-/*
-Instead of a list of all class selectors,
-you can use the generic selector below, but it's slower:
-[class*="icon-"] {
-*/
-.icon-font ,.icon-twitter, .icon-facebook, .icon-youtube, .icon-chevron-right, .icon-chevron-left, .icon-chevron-down, .icon-chevron-up, .icon-angle-left, .icon-angle-right, .icon-angle-up, .icon-angle-down, .icon-home, .icon-eye-open, .icon-spinner, .icon-phone, .icon-close, .icon-checkmark, .icon-feed, .icon-bubble, .icon-news, .icon-bubble-2, .icon-link, .icon-envelope, .icon-books {
-	font-family: 'presaje';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
-	-webkit-font-smoothing: antialiased;
+/* Instead of a list of all class selectors, you can use the generic selector below, but it's slower: [class*="icon-"] { */
+.icon-font, .icon-twitter, .icon-facebook, .icon-youtube, .icon-chevron-right, .icon-chevron-left, .icon-chevron-down, .icon-chevron-up, .icon-angle-left, .icon-angle-right, .icon-angle-up, .icon-angle-down, .icon-home, .icon-eye-open, .icon-spinner, .icon-phone, .icon-close, .icon-checkmark, .icon-feed, .icon-bubble, .icon-news, .icon-bubble-2, .icon-link, .icon-envelope, .icon-books {
+    font-family: 'presaje';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
 }
+
 .icon-twitter:before {
-	content: "\74";
+    content: "\74";
 }
+
 .icon-facebook:before {
-	content: "\66";
+    content: "\66";
 }
+
 .icon-youtube:before {
-	content: "\79";
+    content: "\79";
 }
+
 .icon-chevron-right:before {
-	content: "\3e";
+    content: "\3e";
 }
+
 .icon-chevron-left:before {
-	content: "\3c";
+    content: "\3c";
 }
+
 .icon-chevron-down:before {
-	content: "\42";
+    content: "\42";
 }
+
 .icon-chevron-up:before {
-	content: "\54";
+    content: "\54";
 }
+
 .icon-angle-left:before {
-	content: "\34";
+    content: "\34";
 }
+
 .icon-angle-right:before {
-	content: "\36";
+    content: "\36";
 }
+
 .icon-angle-up:before {
-	content: "\38";
+    content: "\38";
 }
+
 .icon-angle-down:before {
-	content: "\32";
+    content: "\32";
 }
+
 .icon-home:before {
-	content: "\68";
+    content: "\68";
 }
+
 .icon-eye-open:before {
-	content: "\76";
+    content: "\76";
 }
+
 .icon-spinner:before {
-	content: "\6c";
+    content: "\6c";
 }
+
 .icon-phone:before {
-	content: "\70";
+    content: "\70";
 }
+
 .icon-close:before {
-	content: "\78";
+    content: "\78";
 }
+
 .icon-checkmark:before {
-	content: "\56";
+    content: "\56";
 }
+
 .icon-feed:before {
-	content: "\21";
+    content: "\21";
 }
+
 .icon-bubble:before {
-	content: "\22";
+    content: "\22";
 }
+
 .icon-news:before {
-	content: "\23";
+    content: "\23";
 }
+
 .icon-bubble-2:before {
-	content: "\24";
+    content: "\24";
 }
+
 .icon-link:before {
-	content: "\4c";
+    content: "\4c";
 }
+
 .icon-envelope:before {
-	content: "\4d";
+    content: "\4d";
 }
+
 .icon-books:before {
-	content: "\62";
+    content: "\62";
 }
 
 .icon-arrow_l_circle:before {
     content: "\34";
-    background-color :#1166AA;
+    background-color: #1166AA;
     color: #fff;
-    border-radius :500px;
+    border-radius: 500px;
 }
+
 .icon-arrow_r_circle:before {
     content: "\36";
-    background-color :#1166AA;
+    background-color: #1166AA;
     color: #fff;
-    border-radius :500px;
+    border-radius: 500px;
 }
